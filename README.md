@@ -1,2 +1,2 @@
 # webpack
-Record my learning vue process
+Record my learning webpack process
