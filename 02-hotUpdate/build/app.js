@@ -79,9 +79,11 @@ document.body.appendChild(Object(__WEBPACK_IMPORTED_MODULE_0__component__["a" /*
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony default export */ __webpack_exports__["a"] = ((text="hello webpack __zhang") => {
+/* harmony default export */ __webpack_exports__["a"] = ((text="hello webpack __zrd") => {
     const ele=document.createElement("div");
-    ele.innerHTML=text;
+    ele.innerHTML=1213;
+    ele.style.border="1px solid red";
+    ele.style.width="200px"
     return ele;
 });
 
